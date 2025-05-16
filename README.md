@@ -2,8 +2,7 @@
 
 ### Telegram
 
-#### Username : @hongdawujin  
-#### Link: https://t.me/hongdawujin
+#### 客服双向机器人: @iamservicecallmebot
 
 ### 68Chat
 
